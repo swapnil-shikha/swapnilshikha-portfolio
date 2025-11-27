@@ -110,9 +110,7 @@ const Hero = () => {
       transition={{ duration: 0.6, ease: "easeOut" }}
       className="w-full h-full rounded-full overflow-hidden bg-black"
     >
-      <img
-        src="/src/profile.jpg"
-        alt="Swapnil Shikha"
+       <img src="/profile.jpg" alt="Swapnil Shikha" 
         className="w-full h-full object-cover rounded-full"
       />
       
